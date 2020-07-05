@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/publishPosts/static/css/main.6edb06f9.chunk.css",
+    "main.js": "/publishPosts/static/js/main.36d7ddf0.chunk.js",
+    "main.js.map": "/publishPosts/static/js/main.36d7ddf0.chunk.js.map",
+    "runtime-main.js": "/publishPosts/static/js/runtime-main.a8485044.js",
+    "runtime-main.js.map": "/publishPosts/static/js/runtime-main.a8485044.js.map",
+    "static/js/2.c7e54ccc.chunk.js": "/publishPosts/static/js/2.c7e54ccc.chunk.js",
+    "static/js/2.c7e54ccc.chunk.js.map": "/publishPosts/static/js/2.c7e54ccc.chunk.js.map",
+    "index.html": "/publishPosts/index.html",
+    "precache-manifest.6a04a2eba5cdbdb4aa9c476d862ac791.js": "/publishPosts/precache-manifest.6a04a2eba5cdbdb4aa9c476d862ac791.js",
+    "service-worker.js": "/publishPosts/service-worker.js",
+    "static/css/main.6edb06f9.chunk.css.map": "/publishPosts/static/css/main.6edb06f9.chunk.css.map",
+    "static/js/2.c7e54ccc.chunk.js.LICENSE.txt": "/publishPosts/static/js/2.c7e54ccc.chunk.js.LICENSE.txt",
+    "static/media/cached-black-18dp.svg": "/publishPosts/static/media/cached-black-18dp.28776c86.svg",
+    "static/media/SearchBar.css": "/publishPosts/static/media/search-black-18dp.19142cc5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8485044.js",
+    "static/js/2.c7e54ccc.chunk.js",
+    "static/css/main.6edb06f9.chunk.css",
+    "static/js/main.36d7ddf0.chunk.js"
+  ]
+}
