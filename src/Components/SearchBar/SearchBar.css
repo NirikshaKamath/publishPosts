@@ -1,0 +1,11 @@
+.search-query{
+    background: url(../../images/search-black-18dp.svg) no-repeat left ;
+    background-color: #fff;
+    padding-left: 20px;
+  }
+  .searchBar{
+    background-color: cornflowerblue;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+  }  
